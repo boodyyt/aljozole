@@ -383,6 +383,7 @@ flex-direction: column;
     .serv .con .box {
         width: 70%;
         padding: 5px;
+            height: 250px;
     }
 }
 
